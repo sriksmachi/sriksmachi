@@ -4,9 +4,9 @@ I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-
 
 Here are some of the books I authored.
 
-<img src="images/1.jpg" style="height:200px;padding:10px">
-<img src="images/2.jpg" style="height:200px;padding:10px">
-<img src="images/3.jpg" style="height:200px;padding:10px">
+||||
+|-|-|-|
+|<img src="images/1.jpg" style="height:200px;padding:10px">|<img src="images/2.jpg" style="height:200px;padding:10px">|<img src="images/3.jpg" style="height:200px;padding:10px">|
 
 📫 How to reach me:
 Write to vishwanath.srikanth@mail.com
