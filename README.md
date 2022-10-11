@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML/DS/AI, designing distributed systems for cloud, microservices design 
 - 📫 How to reach me: vishwanath.srikanth@gmail.com / linked-in
 
+### Notebooks
+============================================
+### Classical ML
+============================================
+- Anamoly detection using PCA -> https://github.com/sriksmachi/sriksml/blob/main/pca.ipynb
+- Resampling Approaches -> https://github.com/sriksmachi/sriksml/blob/main/ResamplingApproaches.ipynb
+
