@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Research Student. I'm currently learning distributed machine learning and Artifical intelligence. I create a blend of my expertise in building cloud native solutions with AI / ML to create innovate products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://medium.com/@vishwanath.srikanth) related to cloud native architecture and datascience.   
+I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Independent Researcher. I'm currently learning distributed machine learning and Artifical intelligence. I create a blend of my expertise in building cloud native solutions with AI / ML to create innovate products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://medium.com/@vishwanath.srikanth) related to building intelligent apps for cloud and ML. I'm specialized in Deep Reinforcement learning, so if you are looking for tips, quick help or have an interesting project you can always reach out to me.    
 
 Here are some of the books I authored.
 
@@ -16,17 +16,14 @@ Write to vishwanath.srikanth@mail.com
 ⚡ Fun fact:
 I'm actually not that busy as it appears :)
 
-<!--
-**sriksmachi/sriksmachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sriksmachi/sriksmachi** is a ✨ distributed ML systems ✨ repository where you can find all my work.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on applied RL
+- 🌱 I’m currently learning distributed ML systems
+- 👯 I’m looking to collaborate on RL in field of industrial automation
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about ML/DS/AI, designing distributed systems for cloud, microservices design 
+- 📫 How to reach me: vishwanath.srikanth@gmail.com / linked-in
+
