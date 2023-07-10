@@ -31,19 +31,25 @@ Here are some ideas to get you started:
 ============================================
 ### Classical ML
 ============================================
-- Anomaly detection using PCA -> https://github.com/sriksmachi/sriksml/blob/main/pca.ipynb
-- Resampling Approaches -> https://github.com/sriksmachi/sriksml/blob/main/ResamplingApproaches.ipynb
+|||
+|-|-|
+|Anomaly detection using PCA|https://github.com/sriksmachi/sriksml/blob/main/pca.ipynb|
+|Resampling Approaches|https://github.com/sriksmachi/sriksml/blob/main/ResamplingApproaches.ipynb|
 
 ### Language Models
-- Text generation using Simple RNN and Glove Models -> https://github.com/sriksmachi/sriksml/blob/main/language-models/rnn-glove-embeddings.ipynb
+|||
+|-|-|
+|Text generation using Simple RNN and Glove Models|https://github.com/sriksmachi/sriksml/blob/main/language-models/rnn-glove-embeddings.ipynb|
 
 =============================================
 ### Open AI Samples
 ============================================
-- Building an Azure Quiz using GPT, Chat GPT, and Embeddings models -> https://github.com/sriksmachi/openai-samples/tree/main/azure-quiz
-- Document classification by fine-tuning Open AI Models -> https://github.com/sriksmachi/openai-samples/tree/main/document-classification
-- Prompt engineering samples -> https://github.com/sriksmachi/openai-samples/tree/main/prompt-engineering
-- Build AI Apps using langchain, vector databases, embeddings -> https://github.com/sriksmachi/openai-samples/tree/main/complete-ai-app
+|||
+|-|-|
+| Building an Azure Quiz using GPT, Chat GPT, and Embeddings models | https://github.com/sriksmachi/openai-samples/tree/main/azure-quiz
+| Document classification by fine-tuning Open AI Models | https://github.com/sriksmachi/openai-samples/tree/main/document-classification
+| Prompt engineering samples | https://github.com/sriksmachi/openai-samples/tree/main/prompt-engineering
+| Build AI Apps using langchain, vector databases, embeddings | https://github.com/sriksmachi/openai-samples/tree/main/complete-ai-app
 
 ==============================================
 ### Reinforcement Learning
