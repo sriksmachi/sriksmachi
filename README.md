@@ -54,9 +54,12 @@ Here are some ideas to get you started:
 ==============================================
 ### Reinforcement Learning
 ==============================================
-- Q-learning - TBD
-- SARSA - TBD
-- DQN - TBD
-- DDPG - TBD
-- TRPO - TBD
-- PPO - TBD
+|||
+|-|-|
+| Q-learning | TBD |
+| REINFORCE | https://github.com/sriksmachi/sriksml/blob/main/reinforcement-learning/reinforce.ipynb |
+| SARSA | TBD |
+| DQN | TBD |
+| DDPG | TBD |
+| TRPO | TBD |
+| PPO | TBD |
