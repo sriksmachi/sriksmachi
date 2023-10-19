@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 |||
 |-|-|
 |Text generation using Simple RNN and Glove Models|https://github.com/sriksmachi/sriksml/blob/main/language-models/rnn-glove-embeddings.ipynb|
+|Build a transformer from scratch | https://github.com/sriksmachi/sriksml/blob/main/language-models/transformers_001.ipynb |
 
 =============================================
 ### Open AI Samples
