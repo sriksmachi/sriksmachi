@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Independent Researcher. I'm currently learning distributed machine learning and Artificial intelligence. I create a blend of my expertise in building cloud-native solutions with AI / ML to create innovative products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://medium.com/@vishwanath.srikanth) related to building intelligent apps for cloud and ML. I'm specialized in Deep Reinforcement learning, so if you are looking for tips, quick help or have an interesting project you can always reach out to me.    
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML/DS/AI, designing distributed systems for the cloud, microservices design 
 - 📫 How to reach me: vishwanath.srikanth@gmail.com / linked-in
 
-### Notebooks
+## Notebooks
 ============================================
 ### Classical ML
 ============================================
@@ -64,3 +64,10 @@ Here are some ideas to get you started:
 | DDPG | TBD |
 | TRPO | TBD |
 | PPO | https://github.com/sriksmachi/sriksml/blob/main/reinforcement-learning/ppo.ipynb |
+
+
+## Projects
+
+|||
+|-|-|
+
