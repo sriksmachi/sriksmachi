@@ -42,6 +42,11 @@ Here are some ideas to get you started:
 |Text generation using Simple RNN and Glove Models|https://github.com/sriksmachi/sriksml/blob/main/language-models/rnn-glove-embeddings.ipynb|
 |Build a transformer from scratch | https://github.com/sriksmachi/sriksml/blob/main/language-models/transformers_001.ipynb |
 
+### Generative AI 
+|||
+|-|-|
+| Variational Auto Encoders | https://github.com/sriksmachi/sriksml/blob/main/genai/variational-auto-encoders.ipynb |
+
 =============================================
 ### Open AI Samples
 ============================================
@@ -70,4 +75,8 @@ Here are some ideas to get you started:
 
 |||
 |-|-|
+| Ishara | https://github.com/sriksmachi/ishara |
+| Octopus | https://github.com/sriksmachi/ishara |
+| SuperCabs | https://github.com/sriksmachi/supercabs |
+| RBEI | https://github.com/sriksmachi/rbei |
 
