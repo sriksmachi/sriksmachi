@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 |||
 |-|-|
 | Variational Auto Encoders | https://github.com/sriksmachi/sriksml/blob/main/genai/variational-auto-encoders.ipynb |
+| Cycle GANs | https://github.com/sriksmachi/aimriscan |
 
 =============================================
 ### Open AI Samples
