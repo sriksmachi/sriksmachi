@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Independent Researcher. I'm currently learning distributed machine learning and Artificial intelligence. I create a blend of my expertise in building cloud-native solutions with AI / ML to create innovative products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://medium.com/@vishwanath.srikanth) related to building intelligent apps for cloud and ML. I'm specialized in Deep Reinforcement learning, so if you are looking for tips, quick help or have an interesting project you can always reach out to me.    
+I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Independent Researcher. I'm currently learning distributed machine learning and Artificial intelligence. I create a blend of my expertise in building cloud-native solutions with AI / ML to create innovative products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://medium.com/@vishwanath.srikanth) related to building intelligent apps for cloud and ML. I'm specialized in Large language models, deep reinforcement learning, so if you are looking for tips, quick help or have an interesting project you can always reach out to me.    
 
 Here are some of the books I authored.
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 | Cycle GANs | https://github.com/sriksmachi/aimriscan |
 
 =============================================
-### Open AI Samples
+### Large Language Models
 ============================================
 |||
 |-|-|
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 | Document classification by fine-tuning Open AI Models | https://github.com/sriksmachi/openai-samples/tree/main/document-classification
 | Prompt engineering samples | https://github.com/sriksmachi/openai-samples/tree/main/prompt-engineering
 | Build AI Apps using langchain, vector databases, embeddings | https://github.com/sriksmachi/openai-samples/tree/main/complete-ai-app
+| Knowledge distillation in large language models | https://github.com/sriksmachi/sriksml/blob/main/language-models/knowledge_distillation_llm.ipynb |
+| Fine-tuning LLMs using RLHF | https://github.com/sriksmachi/sriksml/blob/main/language-models/fine_tuning_llms_rlhf.ipynb
 
 ==============================================
 ### Reinforcement Learning
