@@ -1,6 +1,8 @@
+# Pioneering the Future of AI with Cutting-Edge Innovations and Thought Leadership
+
 ## Hi there 👋
 
-I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Independent Researcher. I'm currently learning distributed machine learning and Artificial intelligence. I create a blend of my expertise in building cloud-native solutions with AI / ML to create innovative products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://medium.com/@vishwanath.srikanth) related to building intelligent apps for cloud and ML. I'm specialized in Large language models, deep reinforcement learning, so if you are looking for tips, quick help or have an interesting project you can always reach out to me.    
+I'm Srikanth Machiraju an AI Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Independent Researcher. I'm currently learning to build innovative AI solutions, distributed machine learning and Artificial intelligence. I create a blend of my expertise in building cloud-native solutions with AI / ML to create innovative products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://techtalkwithsriks.medium.com/) related to building intelligent apps for cloud and ML. I'm specialized in Large language models, deep reinforcement learning, so if you are looking for tips, quick help or have an interesting project you can always reach out to me.    
 
 Here are some of the books I authored.
 
