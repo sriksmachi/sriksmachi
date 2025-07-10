@@ -1,22 +1,40 @@
-## Hi there 👋
+## 👋 Hello World! I'm Srikanth Machiraju
 
-I'm Srikanth Machiraju an Architect at [Microsoft](https://www.microsoft.com/en-in), Published Author and Independent Researcher. I'm currently learning distributed machine learning and Artificial intelligence. I create a blend of my expertise in building cloud-native solutions with AI / ML to create innovative products. I also write articles on [linked-in](https://www.linkedin.com/in/vishsrik/) and [towards datascience](https://medium.com/@vishwanath.srikanth) related to building intelligent apps for cloud and ML. I'm specialized in Large language models, deep reinforcement learning, so if you are looking for tips, quick help or have an interesting project you can always reach out to me.    
+🎯 **AI Architect @ Microsoft** | 📚 **Published Author** | 🔬 **Independent Researcher**
 
-Here are some of the books I authored.
+> *"Bridging the gap between cutting-edge AI research and real-world applications through innovative cloud-native solutions"*
 
-||||
-|-|-|-|
-|<img src="images/1.jpg" style="height:200px;padding:10px">|<img src="images/2.jpg" style="height:200px;padding:10px">|<img src="images/3.jpg" style="height:200px;padding:10px">|
+I'm passionate about building the next generation of intelligent systems that transform industries. My expertise spans **Large Language Models**, **Deep Reinforcement Learning**, and **Distributed ML Systems**. I architect scalable AI solutions on the cloud while contributing to the AI community through research, writing, and open-source projects.
+
+### 🤖 What I Do
+- 🏗️ **Architect AI Solutions** at scale for enterprise applications
+- 📝 **Write Technical Content** on [LinkedIn](https://www.linkedin.com/in/vishsrik/) and [Medium](https://techtalkwithsriks.medium.com/)
+- 🔬 **Research** in Reinforcement Learning and Industrial Automation
+- 🌟 **Mentor** developers building intelligent applications
+
+---
+
+## 📚 Published Author - Books That Inspire Innovation
+
+*Sharing knowledge through comprehensive guides on AI and cloud technologies*
+
+<div align="center">
+
+|                                                            |                                                            |                                                            |
+| ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| <img src="images/1.jpg" style="height:200px;padding:10px"> | <img src="images/2.jpg" style="height:200px;padding:10px"> | <img src="images/3.jpg" style="height:200px;padding:10px"> |
+
+</div>
 
 📫 How to reach me:
-Write to vishwanath.srikanth@mail.com
+Write to vishwanath.srikanth@mail.com / ping me on [linked-in](https://www.linkedin.com/in/vishsrik/)
 
 👯 I’m looking to collaborate on research work related to reinforcement learning.
 
 ⚡ Fun fact:
 I'm actually not as busy as it appears :)
 
-**sriksmachi/sriksmachi** is a ✨ distributed ML systems ✨ repository where you can find all my work.
+**sriksmachi/sriksmachi** is a ✨ AI/ML ✨ repository where you can find all my work.
 
 Here are some ideas to get you started:
 
@@ -25,61 +43,90 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on RL in the field of industrial automation
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ML/DS/AI, designing distributed systems for the cloud, microservices design 
-- 📫 How to reach me: vishwanath.srikanth@gmail.com / linked-in
 
-## Notebooks
-============================================
-### Classical ML
-============================================
-|||
-|-|-|
-|Anomaly detection using PCA|https://github.com/sriksmachi/sriksml/blob/main/pca.ipynb|
-|Resampling Approaches|https://github.com/sriksmachi/sriksml/blob/main/ResamplingApproaches.ipynb|
+## 🏗️ My Work Portfolio
 
-### Language Models
-|||
-|-|-|
-|Text generation using Simple RNN and Glove Models|https://github.com/sriksmachi/sriksml/blob/main/language-models/rnn-glove-embeddings.ipynb|
-|Build a transformer from scratch | https://github.com/sriksmachi/sriksml/blob/main/genai/transformers_101_nmt_eng_hin.ipynb |
+> *"Where AI Architecture meets Practical Innovation"*
 
-### Generative AI 
-|||
-|-|-|
-| Variational Auto Encoders | https://github.com/sriksmachi/sriksml/blob/main/genai/variational-auto-encoders.ipynb |
-| Cycle GANs | https://github.com/sriksmachi/aimriscan |
+The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨ showcasing production-ready solutions, research implementations, and educational resources. Each section below contains battle-tested examples, interactive notebooks, and mini-projects applicable across industries.
 
-=============================================
-### Large Language Models
-============================================
-|||
-|-|-|
-| Building an Azure Quiz using GPT, Chat GPT, and Embeddings models | https://github.com/sriksmachi/openai-samples/tree/main/azure-quiz
-| Document classification by fine-tuning Open AI Models | https://github.com/sriksmachi/openai-samples/tree/main/document-classification
-| Prompt engineering samples | https://github.com/sriksmachi/openai-samples/tree/main/prompt-engineering
-| Build AI Apps using langchain, vector databases, embeddings | https://github.com/sriksmachi/openai-samples/tree/main/complete-ai-app
-| Knowledge distillation in large language models | https://github.com/sriksmachi/sriksml/blob/main/language-models/knowledge_distillation_llm.ipynb |
-| Fine-tuning LLMs using RLHF | https://github.com/sriksmachi/sriksml/blob/main/language-models/fine_tuning_llms_rlhf.ipynb
+### 🎯 **Core AI/ML Domains**
 
-==============================================
-### Reinforcement Learning
-==============================================
-|||
-|-|-|
-| Q-learning | TBD |
-| REINFORCE | https://github.com/sriksmachi/sriksml/blob/main/reinforcement-learning/reinforce.ipynb |
-| SARSA | TBD |
-| DQN | TBD |
-| DDPG | TBD |
-| TRPO | TBD |
-| PPO | https://github.com/sriksmachi/sriksml/blob/main/reinforcement-learning/ppo.ipynb |
+<div align="center">
 
+| 🔥 **Domain**                     | 🚀 **Repository**                                                                    | 📊 **Focus Area**               |
+| -------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------ |
+| 🌐 **Azure ML**                   | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/azureml)                | Cloud-native ML solutions      |
+| 🧠 **Large Language Models**      | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/language-models)        | LLM applications & fine-tuning |
+| 📈 **Classical Machine Learning** | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/classical-ml)           | Traditional ML algorithms      |
+| 🎨 **Generative AI (non-LLM)**    | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/genai)                  | Creative AI solutions          |
+| 🎮 **Reinforcement Learning**     | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/reinforcement-learning) | RL research & applications     |
 
-## Projects
+</div>
 
-|||
-|-|-|
-| Ishara | https://github.com/sriksmachi/ishara |
-| Octopus | https://github.com/sriksmachi/ishara |
-| SuperCabs | https://github.com/sriksmachi/supercabs |
-| RBEI | https://github.com/sriksmachi/rbei |
+---
+
+### 🌟 **Featured Projects**
+
+*Real-world applications showcasing AI innovation in action*
+
+<div align="center">
+
+| 🚀 **Project**   | 🔗 **Repository**                                          | 💡 **Innovation**              |
+| --------------- | --------------------------------------------------------- | ----------------------------- |
+| 🤲 **Ishara**    | [View Project →](https://github.com/sriksmachi/ishara)    | Gesture recognition system    |
+| 🐙 **Octopus**   | [View Project →](https://github.com/sriksmachi/ishara)    | Multi-modal AI platform       |
+| 🚕 **SuperCabs** | [View Project →](https://github.com/sriksmachi/supercabs) | Smart transportation solution |
+| 🏢 **RBEI**      | [View Project →](https://github.com/sriksmachi/rbei)      | Enterprise AI framework       |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriksmachi&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksmachi&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+
+### 🤖 **AI/ML Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 💻 **Programming & Tools**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 *"Innovation happens when AI meets real-world challenges"*
+
+**⭐ Star my repositories if you find them useful!**  
+**🤝 Let's build the future of AI together!**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
 
