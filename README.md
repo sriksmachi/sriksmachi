@@ -59,7 +59,7 @@ The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨
 | 🌐 **Azure ML**                   | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/azureml)                | Cloud-native ML solutions      |
 | 🧠 **Large Language Models**      | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/language-models)        | LLM applications & fine-tuning |
 | 📈 **Classical Machine Learning** | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/classical-ml)           | Traditional ML algorithms      |
-| 🎨 **Generative AI (non-LLM)**    | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/genai)                  | Creative AI solutions          |
+| 🎨 **Generative AI (non-LLM)**    | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/genai-labs)             | Creative AI solutions          |
 | 🎮 **Reinforcement Learning**     | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/reinforcement-learning) | RL research & applications     |
 
 </div>
