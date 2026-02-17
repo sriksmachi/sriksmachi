@@ -60,7 +60,8 @@ The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨
 | --------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 🤖 **Multi-Agent AI System** | [View Project →](https://github.com/sriksmachi/multi-agent-ai-system-lang-accelerator) | Language acceleration for multi-agent systems |
 | 🚕 **SuperCabs** | [View Project →](https://github.com/sriksmachi/supercabs)                                     | RL/Q-Learning-based decision framework for car-rental services like uber, that maximises profit          |
-| 🏢 **RBEI**      | [View Project →](https://github.com/sriksmachi/rbei)                                          | YOLO-based household object detection for edge devices & smart cleaning robots || 🔷 **Azgentica**  | [View Project →](https://github.com/sriksmachi/azgentica)                                    | Vision-powered AI agent transforming Azure architecture diagrams into structured insights & cost analysis |
+| 🏢 **RBEI**      | [View Project →](https://github.com/sriksmachi/rbei)                                          | YOLO-based household object detection for edge devices & smart cleaning robots |
+| 🔷 **Azgentica**  | [View Project →](https://github.com/sriksmachi/azgentica)                                    | Vision-powered AI agent transforming Azure architecture diagrams into structured insights & cost analysis |
 </div>
 
 ---
