@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## 🏗️ My Work Portfolio
 
-> *"Where AI Architecture meets Practical Innovation"*
+> *"Where Applied Research solves real-business problems"*
 
 The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨ showcasing production-ready solutions, research implementations, and educational resources. Each section below contains battle-tested examples, interactive notebooks, and mini-projects applicable across industries.
 
@@ -74,7 +74,7 @@ The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨
 
 | 🚀 **Project**   | 🔗 **Repository**                                          | 💡 **Innovation**              |
 | --------------- | --------------------------------------------------------- | ----------------------------- |
-| 🤲 **Ishara**    | [View Project →](https://github.com/sriksmachi/ishara)    | Gesture recognition system    |
+| 🤲 **MAESTRO**    | [View Project →](https://github.com/sriksmachi/ishara)    | Gesture recognition system    |
 | 🐙 **Octopus**   | [View Project →](https://github.com/sriksmachi/ishara)    | Multi-modal AI platform       |
 | 🚕 **SuperCabs** | [View Project →](https://github.com/sriksmachi/supercabs) | Smart transportation solution |
 | 🏢 **RBEI**      | [View Project →](https://github.com/sriksmachi/rbei)      | Enterprise AI framework       |
@@ -111,7 +111,7 @@ The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 💻 **Programming & Tools**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
