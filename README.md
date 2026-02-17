@@ -9,7 +9,7 @@ I'm passionate about building the next generation of intelligent systems that tr
 ### 🤖 What I Do
 - 🏗️ **Architect AI Solutions** at scale for enterprise applications
 - 📝 **Write Technical Content** on [LinkedIn](https://www.linkedin.com/in/vishsrik/) and [Medium](https://techtalkwithsriks.medium.com/)
-- 🔬 **Research** in Reinforcement Learning and Industrial Automation
+- 🔬 **Research** in Deep Reinforcement Learning and Industrial Automation
 - 🌟 **Mentor** developers building intelligent applications
 
 ---
@@ -50,34 +50,54 @@ Here are some ideas to get you started:
 
 The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨ showcasing production-ready solutions, research implementations, and educational resources. Each section below contains battle-tested examples, interactive notebooks, and mini-projects applicable across industries.
 
-### 🎯 **Core AI/ML Domains**
-
-<div align="center">
-
-| 🔥 **Domain**                     | 🚀 **Repository**                                                                    | 📊 **Focus Area**               |
-| -------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------ |
-| 🌐 **Azure ML**                   | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/azureml)                | Cloud-native ML solutions      |
-| 🧠 **Large Language Models**      | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/language-models)        | LLM applications & fine-tuning |
-| 📈 **Classical Machine Learning** | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/classical-ml)           | Traditional ML algorithms      |
-| 🎨 **Generative AI (non-LLM)**    | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/genai-labs)             | Creative AI solutions          |
-| 🎮 **Reinforcement Learning**     | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/reinforcement-learning) | RL research & applications     |
-
-</div>
-
----
-
 ### 🌟 **Featured Projects**
 
 *Real-world applications showcasing AI innovation in action*
 
 <div align="center">
 
-| 🚀 **Project**   | 🔗 **Repository**                                          | 💡 **Innovation**              |
-| --------------- | --------------------------------------------------------- | ----------------------------- |
-| 🤲 **MAESTRO**    | [View Project →](https://github.com/sriksmachi/ishara)    | Gesture recognition system    |
-| 🐙 **Octopus**   | [View Project →](https://github.com/sriksmachi/ishara)    | Multi-modal AI platform       |
-| 🚕 **SuperCabs** | [View Project →](https://github.com/sriksmachi/supercabs) | Smart transportation solution |
-| 🏢 **RBEI**      | [View Project →](https://github.com/sriksmachi/rbei)      | Enterprise AI framework       |
+| 🚀 **Project**   | 🔗 **Repository**                                                                              | 💡 **Innovation**                       |
+| --------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 🤖 **Multi-Agent AI System** | [View Project →](https://github.com/sriksmachi/multi-agent-ai-system-lang-accelerator) | Language acceleration for multi-agent systems |
+| 🚕 **SuperCabs** | [View Project →](https://github.com/sriksmachi/supercabs)                                     | RL/Q-Learning-based decision framework for car-rental services like uber, that maximises profit          |
+| 🏢 **RBEI**      | [View Project →](https://github.com/sriksmachi/rbei)                                          | YOLO-based household object detection for edge devices & smart cleaning robots || 🔷 **Azgentica**  | [View Project →](https://github.com/sriksmachi/azgentica)                                    | Vision-powered AI agent transforming Azure architecture diagrams into structured insights & cost analysis |
+</div>
+
+---
+
+## 🔬 Current Research
+
+**Reinforcement Learning & Distributed ML Systems**
+- Exploring advanced techniques in RL applications for industrial automation [supply chain orders] and intelligent systems [RL-based decision system for AI trading with market sentiment analysis]
+- Focusing on distributed training and large-scale model optimization
+- Active experimentation with multi-agent systems and language model acceleration
+
+**Research Interests:**
+- 🤖 Deep Reinforcement Learning applications in robotics and automation
+- 🔄 Distributed training for large-scale AI systems
+- 🤝 Multi-agent AI systems and coordination
+- ⚡ Language model optimization and acceleration techniques
+- ☁️ Cloud-native distributed ML architectures
+
+**How to Engage:**
+- 💬 Interested in collaborating on RL research? Reach out via [LinkedIn](https://www.linkedin.com/in/vishsrik/)
+- 📝 Follow my research explorations on [Medium](https://techtalkwithsriks.medium.com/)
+- 🔗 Explore my active research repositories above
+
+-----
+
+### 🎯 **Code samples by AI/ML Topics**
+
+The following links point you to AI ML topics that that can be learnt in 30 minutues with code and examples. 
+
+<div align="center">
+
+| 🔥 **Domain**                     | 🚀 **Repository**                                                                    | 📊 **Focus Area**               |
+| -------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------ |
+| 🌐 **Azure ML**                   | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/azureml)                | Cloud-native ML solutions      |
+| 🧠 **Large Language Models**      | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/genai-labs)        | LLM applications & fine-tuning |
+| 📈 **Classical Machine Learning** | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/classical-ml-labs)           | Traditional ML algorithms & Concepts      |
+| 🎮 **Reinforcement Learning**     | [Explore →](https://github.com/sriksmachi/sriksml/tree/main/reinforcement-learning-labs) | Reinforcement learning concepts & applications     |
 
 </div>
 
@@ -111,7 +131,7 @@ The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 💻 **Programming & Tools**
-![Python](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
