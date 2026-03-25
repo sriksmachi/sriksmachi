@@ -22,8 +22,8 @@ I'm passionate about building the next generation of intelligent systems that tr
 <div align="center">
 
 [![ML-Based Autoscaling Paper](images/4.png)](https://www.mdpi.com/2297-8747/31/2/49)
-
 </div>
+
 > **Published in:** [Mathematical and Computational Applications (MCA)](https://www.mdpi.com/journal/mca), MDPI — *Special Issue: 30th Anniversary of MCA*
 
 This paper presents a systematic taxonomy and evaluation of machine learning–driven autoscaling approaches for elastic cloud systems, spanning **classical ML**, **deep learning**, and **reinforcement learning**. By synthesizing insights from extensive prior research, it highlights key design patterns, evaluation metrics, and open challenges in building scalable and efficient cloud-native systems.
