@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Srikanth Machiraju
 
-🎯 **AI Architect @ Microsoft** | 📚 **Published Author** | 🔬 **Independent Researcher**
+🎯 **AI Architect @ Microsoft** | 📚 **Published Author** | 🔬 **Published Researcher**
 
 > *"Bridging the gap between cutting-edge AI research and real-world applications through innovative cloud-native solutions"*
 
