@@ -79,11 +79,34 @@ The **sriksmachi** repository is a ✨ **comprehensive AI/ML knowledge hub** ✨
 - 🤝 Multi-agent AI systems and coordination
 - ⚡ Language model optimization and acceleration techniques
 - ☁️ Cloud-native distributed ML architectures
+- 📈 ML/RL-based autoscaling for elastic cloud systems
 
 **How to Engage:**
 - 💬 Interested in collaborating on RL research? Reach out via [LinkedIn](https://www.linkedin.com/in/vishsrik/)
 - 📝 Follow my research explorations on [Medium](https://techtalkwithsriks.medium.com/)
 - 🔗 Explore my active research repositories above
+
+---
+
+## 📄 Research Publications
+
+*Peer-reviewed research contributing to the AI/ML and cloud systems community*
+
+### ML‑Based Autoscaling for Elastic Cloud Applications: Taxonomy, Frameworks, and Evaluation
+
+> **Published in:** [Mathematical and Computational Applications (MCA)](https://www.mdpi.com/journal/mca), MDPI — *Special Issue: 30th Anniversary of MCA*
+
+This paper presents a systematic taxonomy and evaluation of machine learning–driven autoscaling approaches for elastic cloud systems, spanning **classical ML**, **deep learning**, and **reinforcement learning**. By synthesizing insights from extensive prior research, it highlights key design patterns, evaluation metrics, and open challenges in building scalable and efficient cloud-native systems.
+
+**Co-authors:** Srikanth Machiraju · Sahil Sharma, PhD, AFHEA · Vijay Kumar
+
+<div align="center">
+
+| 📰 Full Paper | 📥 PDF |
+|:---:|:---:|
+| [Read on MDPI →](https://www.mdpi.com/2297-8747/31/2/49) | [Download PDF →](https://www.mdpi.com/2297-8747/31/2/49/pdf) |
+
+</div>
 
 -----
 
