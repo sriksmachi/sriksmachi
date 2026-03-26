@@ -20,7 +20,6 @@ I'm passionate about building the next generation of intelligent systems that tr
 
 ### ML‑Based Autoscaling for Elastic Cloud Applications: Taxonomy, Frameworks, and Evaluation
 <div align="center">
-
 [![ML-Based Autoscaling Paper](images/4.png)](https://www.mdpi.com/2297-8747/31/2/49)
 </div>
 
