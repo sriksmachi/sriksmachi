@@ -1,16 +1,18 @@
 ## 👋 Hello World! I'm Srikanth Machiraju
 
-🎯 **AI Architect @ Microsoft** | 📚 **Published Author** | 🔬 **Published Researcher**
+🎯 **Senior DataScientist @ Microsoft** | 📚 **Published Author** | 🔬 **Published Researcher**
 
 > *"Bridging the gap between cutting-edge AI research and real-world applications through innovative cloud-native solutions"*
 
-I'm passionate about building the next generation of intelligent systems that transform industries. My expertise spans **Large Language Models**, **Deep Reinforcement Learning**, and **Distributed ML Systems**. I architect scalable AI solutions on the cloud while contributing to the AI community through research, writing, and open-source projects.
+am passionate about building the next generation of intelligent systems that transform industries and deliver real business impact.
+My core expertise lies in fine-tuning large, small, and mini language models, deep reinforcement learning for behavioral alignment of AI systems, and developing custom machine learning solutions purpose-built to meet specific business KPIs.
+At Microsoft Engineering, I tackle complex, high-stakes business problems using rigorous scientific and engineering approaches. Alongside my work, I actively contribute to the broader AI community through research, technical writing, and open-source projects.
 
 ### 🤖 What I Do
-- 🏗️ **Architect AI Solutions** at scale for enterprise applications
-- 📝 **Write Technical Content** on [LinkedIn](https://www.linkedin.com/in/vishsrik/) and [Medium](https://techtalkwithsriks.medium.com/)
-- 🔬 **Research** in Deep Reinforcement Learning and Industrial Automation
-- 🌟 **Mentor** developers building intelligent applications
+- 🏗️ Build **enterprise-scale AI systems** as a **Senior Data Scientist**, turning complex data and ML models into production-grade applications.  
+- 📝 Share insights on **AI, machine learning, and applied data science** through technical writing on [LinkedIn](https://www.linkedin.com/in/vishsrik/) and [Medium](https://techtalkwithsriks.medium.com/)
+- 🔬 Explore **applied research in Deep Reinforcement Learning and Industrial AI**, focusing on practical impact in real-world systems.  
+- 🌟 **Mentor developers and engineers** to design and build intelligent, scalable applications.
 
 ---
 
